@@ -13,7 +13,7 @@ For the MSDS Practicum 1, I wanted to dive deeper into the issue that has been i
 - Forecasting
 - Conclusion
 
-# Problem description
+# Problem Description
 Here are the questions I want to answer in this project:
 - Are people of color being impacted the most?
 - Are there any other socio-economic factors Tied to shooting?
@@ -38,7 +38,7 @@ Datasets
   - Median income
   - Poverty rate
 
-# Data prepping and tools
+# Data Prepping and Tools
 - Jupiter notebook and Python
 - Custom columns: Month Year, year, Age Banding: under 10, 10-19, 20-29, etc.
 - Using state name dataset to join multiple datasets
