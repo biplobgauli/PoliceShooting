@@ -126,3 +126,6 @@ One of the obstacles I see for the shooting trend now lowering is because the us
   - There doesn't seem to be a strong corelation between the different socio-economic factors. However, there was a strong corelation between population size and shooting count.
 - How does the shooting trend will look like in the future?
   - The trend seems to continue at a similar pace compared to the past five years. 
+# Credits
+[Washington Post](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/)
+[Census.gov](https://www.census.gov/)
