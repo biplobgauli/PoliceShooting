@@ -121,7 +121,7 @@ One of the obstacles I see for the shooting trend now lowering is because the us
 
 # Summary
 - Are people of color being impacted the most?
-  - Not at first glance. But Yes, black and Hispanic seem to be impacted the most.
+  - Not at first glance. But yes, black and Hispanic seem to be impacted the most once we calculate the per misslion shooting count by race. 
 - Are there any other socio-economic factors tied to shooting?
   - Not really.
 - How does the shooting trend will look like in the future?
